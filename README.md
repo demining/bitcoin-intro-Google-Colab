@@ -4,6 +4,15 @@
 | <a href="/nl/">Nederlands</a> | <a href="/fi/">Suomi</a> | <a href="/pt/">Português</a> | <a href="/de/">German</a> | <a href="/pl/">Polski</a> |
 
 ###### Guiding Principles
+
+
+-------------------------
+### Run Google Colab
+
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+-------------------------
+
 - Starting simply and improving is better than not starting at all
 - It's more engaging to use tools before reading a detailed explanation
 - Always keep full control of your bitcoin (use non-custodial tools)
