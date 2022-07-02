@@ -189,3 +189,10 @@ The services in Step 2 are not private (except for Azteco, which is). It is wort
 4. Withdraw bitcoin to bitcoin address from Step 1.
 
 *Note: As stated when installing BISQ, the user is responsible for using the software in compliance with local laws.*
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
